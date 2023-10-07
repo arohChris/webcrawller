@@ -1,0 +1,23 @@
+{
+  "name": "webcrawllerhttps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arohChris/webcrawllerhttp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arohChris/webcrawllerhttp/issues"
+  },
+  "homepage": "https://github.com/arohChris/webcrawllerhttp#readme",
+  "description": ""
+}
