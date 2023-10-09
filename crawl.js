@@ -59,7 +59,7 @@ function getURLsFromHTML(htmlBody, baseURL) {
     const URLs = [];
     const dom = new JSDOM(htmlBody)
     const linkElements = dom.window.document.querySelectorAll('a')
-    console.log(linkElements)
+    
     for (const linkElement of linkElements) {
      if (linkElement.href.slice(0,1) === '/') {
         //relative url

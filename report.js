@@ -17,7 +17,7 @@ function printReport(pages) {
     console.log(' DATA REPORT ENDED AS REPORTED ABOVE');
     console.log('============================================');
 
-
+""
 }
 
 
