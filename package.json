@@ -19,5 +19,8 @@
     "url": "https://github.com/arohChris/webcrawllerhttp/issues"
   },
   "homepage": "https://github.com/arohChris/webcrawllerhttp#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "jsdom": "^22.1.0"
+  }
 }
